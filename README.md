@@ -64,11 +64,3 @@ The dataset `jobs.csv` contains information about job listings, including job ca
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed along with the necessary libraries mentioned in the `requirements.txt` file.
 3. Run the Python scripts to perform analysis and generate visualizations.
-
-## Contributors
-
-- [Your Name] - [Your GitHub Profile](https://github.com/your-profile)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
